@@ -1,1 +1,1 @@
-# The-Passport-Object
+The Passport class in the code represents a digital passport with properties like the holder's name, date of birth, country of birth, and expiration date. It includes methods to check the passport's validity, verify data, summarize the passport details, and record visits to different countries. The class tracks visits and calculates a sum of squared visit counts to encourage diverse travel. Each passport is assigned a unique passport number, managed through a class-level counter.
